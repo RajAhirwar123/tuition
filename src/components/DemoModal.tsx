@@ -44,7 +44,7 @@ const DemoModal = ({ isOpen, onClose }: DemoModalProps) => {
             </div>
 
 
-              {/* Demo Features */}
+             
               <div className="grid md:grid-cols-3 gap-6">
                 <div className="text-center p-4 bg-blue-50 rounded-lg">
                   <h4 className="font-semibold text-blue-900 mb-2">Find Tutors</h4>
