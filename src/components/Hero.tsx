@@ -114,7 +114,7 @@ const Hero = () => {
                   onClick={() => navigate('/')}
                   className="text-blue-600 hover:text-blue-700 hover:bg-blue-50"
                 >
-                  ← Back to Home
+              
                 </Button> */}
               </motion.div>
             </motion.div>
